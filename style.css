@@ -1,0 +1,24 @@
+
+body{
+  background-color: #d3d3d3;
+}
+
+#header {
+  font-family: sans-serif;
+  margin: 0px;
+  padding: 0px;
+
+}
+
+a:hover {
+  color: white !important;
+}
+
+ a:visited{
+  color: purple;;
+
+}
+
+a:link{
+  text-decoration: none;
+}
